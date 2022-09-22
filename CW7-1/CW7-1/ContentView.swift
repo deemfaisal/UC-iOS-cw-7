@@ -46,7 +46,7 @@ struct ContentView: View {
         
         ] ),
         
-        MovieInfo(imageName: "ThePurge", name: "The Purge", cast: [
+        MovieInfo(imageName: "ThePurge", name: "The Purge: Anarchy", cast: [
         
             CastMember(name: "Leo Barnes", imageName:"leoB"),
             CastMember(name: "Cali Sanchez ", imageName:"Cali"),
